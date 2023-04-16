@@ -1,31 +1,31 @@
 [
   {
-    "Img": "anh_00.png",
-    "Name": "Luffy",
+    "img": "anh_00.png",
+    "name": "Luffy",
     "status": "Dead or Alive",
     "bounty": "3.000.000.000",
     "role": "Captain",
     "birthday": "5/5"
   },
   {
-    "Img": "anh_01.png",
-    "Name": "Zoro",
+    "img": "anh_01.png",
+    "name": "Zoro",
     "status": "Dead or Alive",
     "bounty": "1.111.000.000",
     "role": "sword man",
     "birthday": "11/11"
   },
   {
-    "Img": "anh_02.png",
-    "Name": "Sanji",
+    "img": "anh_02.png",
+    "name": "Sanji",
     "status": "Only Alive",
     "bounty": "1.032.000.000",
     "role": "chef",
     "birthday": "2/3"
   },
   {
-    "Img": "anh_03.png",
-    "Name": "Nami",
+    "img": "anh_03.png",
+    "name": "Nami",
     "status": "Dead or Alive",
     "bounty": "366.000.000",
     "role": "Navigator",
