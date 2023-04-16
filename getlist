@@ -13,7 +13,7 @@
     "status": "Dead or Alive",
     "bounty": "1.111.000.000",
     "role": "sword man",
-    "birthday": ""
+    "birthday": "11/11"
   },
   {
     "Img": "anh_02",
@@ -21,7 +21,7 @@
     "status": "Only Alive",
     "bounty": "1.032.000.000",
     "role": "chef",
-    "birthday": ""
+    "birthday": "2/3"
   },
   {
     "Img": "anh_03",
@@ -29,6 +29,6 @@
     "status": "Dead or Alive",
     "bounty": "366.000.000",
     "role": "Navigator",
-    "birthday": ""
+    "birthday": "3/7"
   }
 ]
