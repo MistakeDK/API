@@ -1,6 +1,6 @@
 [
   {
-    "Img": "anh_00",
+    "Img": "anh_00.png",
     "Name": "Luffy",
     "status": "Dead or Alive",
     "bounty": "3.000.000.000",
@@ -8,7 +8,7 @@
     "birthday": "5/5"
   },
   {
-    "Img": "anh_01",
+    "Img": "anh_01.png",
     "Name": "Zoro",
     "status": "Dead or Alive",
     "bounty": "1.111.000.000",
@@ -16,7 +16,7 @@
     "birthday": "11/11"
   },
   {
-    "Img": "anh_02",
+    "Img": "anh_02.png",
     "Name": "Sanji",
     "status": "Only Alive",
     "bounty": "1.032.000.000",
@@ -24,7 +24,7 @@
     "birthday": "2/3"
   },
   {
-    "Img": "anh_03",
+    "Img": "anh_03.png",
     "Name": "Nami",
     "status": "Dead or Alive",
     "bounty": "366.000.000",
